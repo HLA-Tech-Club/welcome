@@ -6,7 +6,7 @@ Anyone who is new to computers/programming or an expert; you are all welcome her
 ### Rules
 
 1. Don't be a dick
- Sorry (not sorry) to put it so bluntly.
+- Sorry (not sorry) to put it so bluntly.
 
 ### Repo
 
