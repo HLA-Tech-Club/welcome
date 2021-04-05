@@ -17,6 +17,6 @@ We'll use [our Discord channel](https://discord.gg/mS2DVqA2) to communicate.
 
 ### Projects
 
-* UNOS Antigen Upload
+* UNOS Antigen Upload ([repo](https://github.com/HLA-Tech-Club/UNOS-UA-Upload))
   * The first project we're tackling is the UNOS Unnacceptables Antigen Upload via API
 
