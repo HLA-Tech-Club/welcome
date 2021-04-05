@@ -1,4 +1,4 @@
-![HTC Logo](/HTC Logo.png)
+![HTC Logo](https://github.com/HLA-Tech-Club/welcome/blob/eca9b596ba55544cacaa07f8dd0b3039c6d13d6c/HTC%20Logo.png)
 ## Welcome to the HLA Tech Club
 
 This is the official repo for all our HLA tech ideas and software we've created. For technologists by technologists.
