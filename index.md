@@ -13,4 +13,10 @@ Click to go to our [GitHub repo](https://github.com/dsaini/HLA-Tech-Club).
 
 ### Discord
 
-We'll use [our Discord channel](https://discord.gg/mS2DVqA2) to communicate.  
+We'll use [our Discord channel](https://discord.gg/mS2DVqA2) to communicate.
+
+### Projects
+
+* UNOS Antigen Upload
+  * The first project we're tackling is the UNOS Unnacceptables Antigen Upload via API
+
