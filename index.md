@@ -1,3 +1,4 @@
+![HTC Logo](/HTC Logo.png)
 ## Welcome to the HLA Tech Club
 
 This is the official repo for all our HLA tech ideas and software we've created. For technologists by technologists.
